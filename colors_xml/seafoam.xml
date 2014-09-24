@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	author: MoniGarr.com 
+	inspired by: 
+	http://www.colourlovers.com/palette/2813018/Seafoam 
+-->
+<resources>
+   <color name="darkest">#4E5861</color><!--lockusup-->
+   <color name="darker">#B1CCC4</color><!--serenegreen-->
+   <color name="dark">#E1E6D3</color><!--purewax-->
+   <color name="medium">#F5E3AE</color><!--notyellow-->
+   <color name="light">#FFF5D6</color><!--cremelrange-->
+</resources>

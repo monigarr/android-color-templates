@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	author: MoniGarr.com 
+	inspired by: 
+	http://www.colourlovers.com/palette/38569/YoungGoGetter
+-->
+<resources>
+   <color name="darkest">#474D4D</color><!--darkgrey-->
+   <color name="darker">#447E69</color><!--goodnight-->
+   <color name="dark">#6EAO79</color><!--ideas-->
+   <color name="medium">#96CO87</color><!--business-->
+   <color name="light">#AFD491</color><!--lightoflove-->
+</resources>

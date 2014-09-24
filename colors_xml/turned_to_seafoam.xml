@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	author: MoniGarr.com 
+	inspired by: 
+	http://www.colourlovers.com/palette/2012982/turned_to_seafoam 
+-->
+<resources>
+   <color name="darkest">#323B3F</color><!--this-->
+   <color name="darker">#597A85</color><!--no name yet-->
+   <color name="dark">#91BA9B</color><!--ivy wall-->
+   <color name="medium">#C4CA9E</color><!--aviary-->
+   <color name="light">#E8D4A5</color><!--E8D4A5-->
+</resources>
