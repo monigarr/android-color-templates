@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	author: MoniGarr.com 
+	inspired by: 
+	http://www.colourlovers.com/print/trends/magazines/7892/House_Beautiful_March_2012
+-->
+<resources>
+   <color name="darkest">#OOAA4F</color><!--brightgreen-->
+   <color name="darker">#86AO9D</color><!--mdgreen-->
+   <color name="dark">#B3CB7A</color><!--palegreen-->
+   <color name="medium">#C8E7EA</color><!--paleblue-->
+   <color name="light">#FFFFFF</color><!--white-->
+</resources>

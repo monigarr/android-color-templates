@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	author: MoniGarr.com 
+	inspired by: 
+	http://www.colourlovers.com/print/trends/magazines/7886/Rue_Magazine
+-->
+<resources>
+   <color name="darkest">#OO8234</color><!--brightgreen-->
+   <color name="darker">#F49A80</color><!--peach-->
+   <color name="dark">#FFDFC8</color><!--palepeach-->
+   <color name="medium">#FCE6DA</color><!--blush-->
+   <color name="light">#FDFBED</color><!--white-->
+</resources>

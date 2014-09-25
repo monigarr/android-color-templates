@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	author: MoniGarr.com 
+	inspired by: 
+	http://www.colourlovers.com/palette/2239666/coral_in_the_seafoam
+-->
+<resources>
+   <color name="darkest">#2A3B44</color><!--dkbluegreen-->
+   <color name="darker">#6C9093</color><!--greendenim-->
+   <color name="dark">#BF6972</color><!--moonwashpink-->
+   <color name="medium">#F47382</color><!--corallipstick-->
+   <color name="light">#DOD9CD</color><!--paleseafoam-->
+</resources>

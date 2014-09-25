@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	author: MoniGarr.com 
+	inspired by: 
+	http://www.colourlovers.com/print/trends/magazines/7834/Print_Design_Annual_2010
+-->
+<resources>
+   <color name="darkest">#72OD5B</color><!--dkpurple-->
+   <color name="darker">#D2367D</color><!--hotpink-->
+   <color name="dark">#018E4A</color><!--brgreeb-->
+   <color name="medium">#BCA000</color><!--moss-->
+   <color name="light">#D7D7CD</color><!--ltgrey-->
+   <color name="orange">#CF3104</color><!--brorange-->
+</resources>

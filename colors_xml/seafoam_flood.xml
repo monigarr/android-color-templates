@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	author: MoniGarr.com 
+	inspired by: 
+	http://www.colourlovers.com/palette/3016491/Seafoam_flood
+-->
+<resources>
+   <color name="darkest">#4B4D63</color><!--skyblurno3-->
+   <color name="darker">#8A9DA4</color><!--virginiablue-->
+   <color name="dark">#D7DOB6</color><!--nydaylight-->
+   <color name="medium">#EECO89</color><!--seafoamflood-->
+   <color name="light">#FBDFB3</color><!--shell-->
+</resources>

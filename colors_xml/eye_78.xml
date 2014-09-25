@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	author: MoniGarr.com 
+	inspired by: 
+	http://www.colourlovers.com/print/trends/magazines/7870/eye_-_78
+-->
+<resources>
+   <color name="darkest">#D1C756</color><!--brightgreen-->
+   <color name="darker">#CDE8D5</color><!--green-->
+   <color name="dark">#EOD1CC</color><!--taupe-->
+   <color name="medium">#C8EBFE</color><!--paleblue-->
+   <color name="light">#FFFFFF</color><!--white-->
+   <color name="orange">#FCA44B</color><!--orange-->
+   <color name="yellow">#FFD843</color><!--yellow-->
+</resources>
